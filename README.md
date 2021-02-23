@@ -1,1 +1,1 @@
-# JSON_navigator-Lab2_Task2-
+This module can help you to navigate through your JSON file. Actually this module uses Twitter API to demonstrate its work on real JSON, so you just need to type a nickname of a certain user in Twitter and then have fun!
